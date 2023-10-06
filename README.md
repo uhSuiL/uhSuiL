@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uhSuiL&show_icons=true" />
+
+- 🌱 A little bit Python, A little bit C++, A little bit Java.
+- 🌱 A little bit DL, A little bit RL, A little bit OR.
+- 🔭 Curious about things above! ~~except Java~~
+  
+I write dirty code and stupid algorithm. Anyway, I'm a student and I'm hardworking, really!!!🙃😭
+
+You can contact with me in English|中文|日本語.
