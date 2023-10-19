@@ -1,4 +1,4 @@
-### Hello! 👋
+## Hello! 👋
 
 ......
 
@@ -29,4 +29,4 @@ I write dirty code and stupid algorithm. Anyway, I'm a student ~~vivo50~~ and I'
 
 - 📫 You can contact with me in English|中文|日本語! With Pleasure~~
 
-# Wish you a Good Day!
+### Wish you a Good Day!
