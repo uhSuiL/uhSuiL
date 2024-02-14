@@ -25,7 +25,7 @@ Emmm... Things about me?
 - 🔭 Curious about things above!
 - 🔭 Majoring in Big Data Management and Applications now.
   
-I write dirty code and stupid algorithm. Anyway, I'm a student and I'm hardworking, really!!!🙃😭
+I write dirty code, stupid algorithm, ugly ui. Anyway, I'm a student and I'm hardworking, really!!!🙃😭
 
 - 📫 You can contact with me in English|中文|日本語! With Pleasure~~
 
