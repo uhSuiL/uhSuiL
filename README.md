@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uhSuiL&show_icons=true" />
 
 Emmm... Things about me?
-- 🌱 A little bit Python, A little bit C++, A little bit Java.
-- 🌱 A little bit DL, A little bit RL, A little bit OR.
+- 🌱 Python | C++ | Java | C# | Javascript.
+- 🌱 DL/ML/RL | OR.
 - 🔭 Curious about things above!
 - 🔭 Majoring in Big Data Management and Applications now.
   
