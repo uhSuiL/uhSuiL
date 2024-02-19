@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Interests(Still Learning)
-ヽ(´•ω•`)､~~I mean...just interests, not exportises~~
+ヽ(´•ω•`)､~~I mean...just interests, not expertises~~
 - <b>Machine Learning related: DL, RL(DRL), AutoML</b>
 - <b>Optimization related: Evol Computation, MILP Solver</b>
 - Currently focus on Recsys/Model as a service, Operation Research bussiness problems
 - Also Full Stack(for self-built model services)
+
+### Major
+- Big Data Management and Application -- Management Science and Technology !!!.
+- Not major in computer science or applied mathematics (
 
 ## Tech Stack
 - Mainly Use: Python/C++/Java(algorithm implementation and service),Vue(website frontend)
@@ -32,9 +36,8 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uhSuiL&show_icons=true" />
 
 <hr />
-
-- 🔭 Majoring in Big Data Management and Application now.  
-- 🙃😭I write dirty code, stupid algorithm, ugly ui. Anyway, I'm a student and I'm hardworking, really!!!
+ 
+- 🙃😭I write dirty code, stupid algorithm and ugly ui. Anyway, I'm a student and I'm hardworking, really!!!
 - 📫 You can contact with me in English|中文|日本語! With Pleasure~~
 
 ### Wish you a Good Day!
