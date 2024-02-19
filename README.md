@@ -1,8 +1,6 @@
-## Hello! 👋
 
-......
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Liu%20Shu&fontAlignY=40)
 
-No no no! Come back here!
 <!--
 **uhSuiL/uhSuiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,16 +15,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Interests(Still Learning)
+ヽ(´•ω•`)､~~I mean...just interests, not exportises~~
+- <b>Machine Learning related: DL, RL(DRL), AutoML</b>
+- <b>Optimization related: Evol Computation, MILP Solver</b>
+- Currently focus on Recsys/Model as a service, Operation Research bussiness problems
+- Also Full Stack(for self-built model services)
+
+## Tech Stack
+- Mainly Use: Python/C++/Java(algorithm implementation and service),Vue(website frontend)
+
+![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,cs,r)
+
+![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,mongodb,postgres,vue,fastapi)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uhSuiL&show_icons=true" />
 
-Emmm... Things about me?
-- 🌱 Python | C++ | Java | C# | Javascript.
-- 🌱 DL/ML/RL | OR.
-- 🔭 Curious about things above!
-- 🔭 Majoring in Big Data Management and Applications now.
-  
-I write dirty code, stupid algorithm, ugly ui. Anyway, I'm a student and I'm hardworking, really!!!🙃😭
+<hr />
 
+- 🔭 Majoring in Big Data Management and Application now.  
+- 🙃😭I write dirty code, stupid algorithm, ugly ui. Anyway, I'm a student and I'm hardworking, really!!!
 - 📫 You can contact with me in English|中文|日本語! With Pleasure~~
 
 ### Wish you a Good Day!
