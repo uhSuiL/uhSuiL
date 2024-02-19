@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - Also Full Stack(for self-built model services)
 
 ### Major
-- Big Data Management and Application -- Management Science and Technology !!!.
-- Not major in computer science or applied mathematics (
+- 🧡Big Data Management and Application -- Management Science and Technology !!!.
+- ~~Finance(Changed)~~
 
 ## Tech Stack
 - Mainly Use: Python/C++/Java(algorithm implementation and service),Vue(website frontend)
