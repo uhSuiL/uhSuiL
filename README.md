@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 - Mainly Use: Python/C++/Java(algorithm implementation and service),Vue(website frontend)
+- Learning Cython
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,cs,r)
 
