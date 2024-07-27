@@ -8,6 +8,7 @@ Looking for
 - with no/few tuition fee.
 
 Any opportunity will be cherished and appreciated！(liushu03@foxmail.com)
+- Poor L. can reach any continent chasing for study!
 
 # Interests(Still Learning)
 I have wide-range of interests in ML and OR, from research level to product level.
