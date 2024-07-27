@@ -1,34 +1,31 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Liu%20Shu&fontAlignY=40)
 
-<!--
-**uhSuiL/uhSuiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HELP POOR L.😭😭😭 
+Looking for 
+- AI related Msc/PhD program
+- in 25fall/win/26summer
+- with no/few tuition fee.
 
-Here are some ideas to get you started:
+Any opportunity will be cherished and appreciated！(liushu03@foxmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Interests(Still Learning)
+# Interests(Still Learning)
+I have wide-range of interests in ML and OR, from research level to product level.
+
 ヽ(´•ω•`)､~~I mean...just interests, not expertises~~
-- <b>Machine Learning related: DL, RL(DRL), AutoML</b>
-- <b>Optimization related: Evol Computation, MILP Solver</b>
-- Currently focus on Recsys/Model as a service, Operation Research bussiness problems
-- Also Full Stack(for self-built model services)
+- <b>Data Centric AI and tools, Agent as helpers, Perception related</b>
+- <b>Evolutionary Computation, APS algorithms and tools</b>
+- Currently focus on: Interactive RecSys
 
-### Major
+# Major
 - 🧡Big Data Management and Application -- Management Science and Technology !!!.
 - ~~Finance(Changed)~~
 
 ## Tech Stack
-- Mainly Use: Python/C++/Java(algorithm implementation and service),Vue(website frontend)
-- Learning Cython
+- Mainly Use:
+  - Python/C++/Java(algorithm implementation and service)
+  - Vue(website frontend)
+
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,cs,r)
 
