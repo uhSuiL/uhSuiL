@@ -3,7 +3,7 @@
 
 # HELP POOR L.😭😭😭 
 Looking for 
-- AI related Msc/PhD program
+- AI/DS/OR related Msc/PhD program
 - in 25fall/win/26summer
 - with no/few tuition fee.
 
