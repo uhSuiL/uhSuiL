@@ -36,7 +36,7 @@ I have wide-range of interests in ML and OR, from research level to product leve
 
 <hr />
  
-- 🙃😭I write dirty code, stupid algorithm and ugly ui. Anyway, I'm a student and I'm hardworking, really!!!
+- 🙃😭I write dirty code, stupid algorithms and ugly UI. Anyway, I'm a student and I'm hardworking, really!!!
 - 📫 You can contact with me in English|中文|日本語! With Pleasure~~
 
 ### Wish you a Good Day!
