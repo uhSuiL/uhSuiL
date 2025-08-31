@@ -3,7 +3,7 @@
 
 ## Contact  ヽ(´•ω•`)､
 - English | 中文 | 日本語
-- Email: friedmogu@163.com | NO MARKETING !
+- Email: liushu_public@yeah.net | NO MARKETING !
 - 🤠 <b>Open to: Job Opportunity / Research Collaboration | Base Germany / China / Japan / Remote</b>
 
 ## Interests
