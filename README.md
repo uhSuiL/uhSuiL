@@ -1,38 +1,33 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Liu%20Shu&fontAlignY=40)
 
-## HELP POOR L.😭😭😭 
-Looking for 
-- AI/DS/OR related Msc/PhD program
-- in 25fall/win/26summer
-- with no/few tuition fee.
-
-Any opportunity will be cherished and appreciated！(liushu03@foxmail.com)
-- Poor L. can reach any continent chasing for study! ヽ(´•ω•`)､
+## Contact  ヽ(´•ω•`)､
+- English | 中文 | 日本語
+- Email: friedmogu@163.com | NO MARKETING !
+- 🤠 <b>Open to: Job Opportunity / Research Collaboration | Base Germany / China / Japan / Remote</b>
 
 ## Interests
-I have wide-range of interests in ML and OR, from research to product.
+Have wide-range of interests in ML, DL, RL and OR, from research to product.
 
-- <b>Vision-Language-Action Agent, Time Series Forecasting, Task-Oriented DialSys</b>
-- <b>Evolutionary Computation</b>
-- Currently focus on: Conversational RecSys, TSF
+- Vision-Language-Action Model, Time Series Forecasting
+- Evolutionary Computation
+- <b>Currently focus on: GUI Control Agent</b>
 
-
-## Major
-- 🧡Big Data Management and Application
+## Education
+- Computational Modeling and Simualtion | TU Dresden | Master   | 2025-PRESENT
+- Big Data Management and Application   | China      | Bachelor | 2021-2025
 
 ## Tech Stack
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uhSuiL&show_icons=true" />
 
 - Pytorch, TF2, Eigen (Algorithm)
 - Flask, FastAPI, ONNX (Service)
-- Flutter (GUI)
+- SolidJS, TailwindCSS, Electron (GUI)
 
-![My Skills](https://skillicons.dev/icons?i=py,dart,java,cpp,cs,r)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,javascript,java,dart,cs,r)
 
-![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,flask,fastapi,flutter)
+![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,flask,fastapi,solidjs,tailwindcss)
 <hr />
  
-### 📫 You can contact with me in English|中文|日本語! With Pleasure~~
-
+### Open to Connect!
 ### Wish you a Good Day!
