@@ -20,13 +20,13 @@ Have wide-range of interests in ML, DL, RL and OR, from research to product.
 ## Tech Stack
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uhSuiL&show_icons=true" />
 
-- Pytorch, TF2, Eigen (Algorithm)
-- Flask, FastAPI, ONNX (Service)
-- SolidJS, TailwindCSS, Electron (GUI)
+- Algorithm: Pytorch, TF2, Eigen
+- Service: Flask, FastAPI, ONNX
+- GUI: SolidJS, TailwindCSS, Electron
 
-![My Skills](https://skillicons.dev/icons?i=py,cpp,javascript,java,dart,cs,r)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,javascript,java,dart,cs)
 
-![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,flask,fastapi,solidjs,tailwindcss)
+![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,solidjs,tailwindcss)
 <hr />
  
 ### Open to Connect!
