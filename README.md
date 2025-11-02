@@ -14,7 +14,7 @@ Have wide-range of interests in ML, DL, RL and OR, from research to product.
 - <b>Currently focus on: Web Agent / GUI Control Agent</b>
 
 ## Education
-- Computational Modeling and Simualtion | TU Dresden | Master   | 2025-PRESENT
+- Computational Modeling and Simualtion (Track: Applied Artificial Intelligence) | TU Dresden | Master   | 2025-PRESENT
 - Big Data Management and Application   | China      | Bachelor | 2021-2025
 
 ## Tech Stack
