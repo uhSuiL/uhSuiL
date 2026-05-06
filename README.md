@@ -11,7 +11,6 @@ Have wide-range of interests in ML, DL, RL and OR, from research to product.
 
 - Vision-Language-Action Model, Time Series Forecasting
 - Evolutionary Computation
-- <b>Currently focus on: Web Agent / GUI Control Agent</b>
 
 ## Education
 - Computational Modeling and Simualtion (Track: Applied Artificial Intelligence) | TU Dresden | Master   | 2025-PRESENT
